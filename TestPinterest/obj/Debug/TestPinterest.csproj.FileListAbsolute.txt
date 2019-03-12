@@ -1,0 +1,7 @@
+C:\Users\rudye\source\repos\TestPinterest\TestPinterest\bin\Debug\TestPinterest.exe.config
+C:\Users\rudye\source\repos\TestPinterest\TestPinterest\bin\Debug\TestPinterest.exe
+C:\Users\rudye\source\repos\TestPinterest\TestPinterest\bin\Debug\TestPinterest.pdb
+C:\Users\rudye\source\repos\TestPinterest\TestPinterest\obj\Debug\TestPinterest.csprojAssemblyReference.cache
+C:\Users\rudye\source\repos\TestPinterest\TestPinterest\obj\Debug\TestPinterest.csproj.CoreCompileInputs.cache
+C:\Users\rudye\source\repos\TestPinterest\TestPinterest\obj\Debug\TestPinterest.exe
+C:\Users\rudye\source\repos\TestPinterest\TestPinterest\obj\Debug\TestPinterest.pdb
